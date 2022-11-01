@@ -13,7 +13,7 @@ Team member : Kesavan M keshedu7@gmail.com (RollNo:727719EUIT077)
 
 Team member : Manikandan M manistark131001@gmail.com (RollNo:727719EUIT082)
 
-Team member : Nirmal Raj S nirmalrajs19101@gmail.com (RollNo:727719EUIT0106)
+Team member : Nirmalraj S nirmalrajs19101@gmail.com (RollNo:727719EUIT0106)
 
 **Industry Mentor(s) Name** : SHANAWAZ ANWAR
 
