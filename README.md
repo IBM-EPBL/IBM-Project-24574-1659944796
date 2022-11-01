@@ -1,15 +1,30 @@
-IBM-Project-24574-1659944796
+# IBM-Project-24574-1659944796
+## Corporate Employee Attrition Analytics
+## Category: Data Analytics
+###### Batch Name : B4-4M6E
 
-Corporate Employee Attrition Analytics
+**Team ID**  : PNT2022TMID02953
 
-Team id: 
+**Team Size** : 4
 
-Team members: Monish Kumar R -(RollNo:727719EUIT077)
+**Team Leader** : Monish Kumar R monishrmk29501@gmail.com (RollNo:727719EUIT098)
 
-Kesavan M - keshedu7@gmail.com(RollNo:727719EUIT077)
+Team member : Kesavan M keshedu7@gmail.com (RollNo:727719EUIT077)
 
-Manikandan M -(RollNo:727719EUIT077)
+Team member : Manikandan M manistark131001@gmail.com (RollNo:727719EUIT082)
 
-Nirmal Raj -(RollNo:727719EUIT077)
+Team member : Nirmal Raj S nirmalrajs19101@gmail.com (RollNo:727719EUIT0106)
+
+**Industry Mentor(s) Name** : SHANAWAZ ANWAR
+
+**Faculty Mentor(s) Name** : KALAIARASAN T R
+
+**Degree** : Bachelor of Technology
+
+**Branch** : Information Technology
+
+**College** : SRI KRISHNA COLLEGE OF ENGINEERING AND TECHNOLOGY
+
+
 
 
